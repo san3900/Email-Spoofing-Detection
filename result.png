@@ -1,0 +1,5 @@
+⚠️ Possible Spoofing Detected:
+- SPF check failed
+- DKIM check failed
+- DMARC check failed
+- Return-Path and From mismatch
