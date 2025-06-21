@@ -1,0 +1,4 @@
+From: paypal@security.com
+Return-Path: attacker@phishing.com
+Received-SPF: fail (example.com: domain of attacker@phishing.com does not designate permitted sender)
+Authentication-Results: dkim=fail; spf=fail; dmarc=fail
